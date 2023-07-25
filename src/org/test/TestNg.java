@@ -13,9 +13,17 @@ public class TestNg {
 	@Test
 	private void irfan() {
 		System.out.println("India");
-
+		
+		
+		
+	}
+	public static void main(String[] args) {
+		
+		
+		System.out.println("Am antony");
 	}
 	
+<<<<<<< HEAD
 	public static void main(String[] args) {
 		
 		
@@ -23,5 +31,8 @@ public class TestNg {
 		
 		System.out.println("completed");
 	}
+=======
+	
+>>>>>>> 2da73565c3a4ad1186673fe00b0047e27df79d87
 	
 }
