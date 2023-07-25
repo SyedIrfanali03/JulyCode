@@ -16,4 +16,12 @@ public class TestNg {
 
 	}
 	
+	public static void main(String[] args) {
+		
+		
+		System.out.println("Ruban here");
+		
+		System.out.println("completed");
+	}
+	
 }
