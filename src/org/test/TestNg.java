@@ -13,7 +13,16 @@ public class TestNg {
 	@Test
 	private void irfan() {
 		System.out.println("India");
-
+		
+		
+		
 	}
+	public static void main(String[] args) {
+		
+		
+		System.out.println("Am antony");
+	}
+	
+	
 	
 }
